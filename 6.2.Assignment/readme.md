@@ -24,7 +24,7 @@ In this project, we built the customized [`knn`](https://github.com/negarslh97/M
 <br/>
 ![plot data](https://github.com/negarslh97/Machine-Learning/blob/main/6.2.Assignment/ANSUR/output/confusion_matrix.png)
 
-## Accuracy <a name = "accuray"></a>
+## Accuracy <a name = "accuracy"></a>
 
 | k  | Accuracy of `self-made KNN algorithm` | Accuracy of `main KNN algorithm` |
 |----|--------------|-----------------|
