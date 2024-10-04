@@ -20,7 +20,7 @@ This script visualizes the relationship between the length and height of oysters
 ### Output
 - A linear regression line plotted on the scatter plot.
   <br/>
-  <br/>
+  
 ![linear regression](https://github.com/negarslh97/Machine-Learning/blob/main/6.4.Assignment/Oyster/output/output.png)
 
 <br/>
@@ -35,15 +35,16 @@ This script generates a synthetic dataset representing the relationship between 
 ### Output
 1. A graph displaying hours of study versus student grades.
 <br/>
-<br/>
+
 ![hours of study versus student grades](https://github.com/negarslh97/Machine-Learning/blob/main/6.4.Assignment/Students_Performance/output/output1.png)
-<br/>
+
 <br/>
 2. Two graphs comparing the slope of the line in the self-made Linear Least Squares (LLS) algorithm and the `linregress` algorithm.
 <br/>
-<br/>
+
 ![LLS algorithm](https://github.com/negarslh97/Machine-Learning/blob/main/6.4.Assignment/Students_Performance/output/output2.png)
 ![linregress algorithm](https://github.com/negarslh97/Machine-Learning/blob/main/6.4.Assignment/Students_Performance/output/output3.png)
+
 <br/>
 ## Boston
 
@@ -56,14 +57,15 @@ This script analyzes the Boston housing dataset to visualize the relationship be
 ### Output
 - Correlation Chart (heatmap)
   <br/>
-  <br/>
+  
 ![Correlation Chart](https://github.com/negarslh97/Machine-Learning/blob/main/6.4.Assignment/Boston/output/output1.png)
-<br/>
+
 <br/>
 - A 3D scatter plot showing the actual data, along with a regression plane generated using linear regression.
 <br/>
-<br/>
+
 ![3D scatter plot](https://github.com/negarslh97/Machine-Learning/blob/main/6.4.Assignment/Boston/output/output2.png)
+
 <br/>
 ## Installation
 
