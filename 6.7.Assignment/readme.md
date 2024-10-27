@@ -35,7 +35,9 @@ In this project, the goal is to classify binary-labeled surgical data using an o
 
 <br/>
 <br/>
+
 ![Evaluate Plot](https://github.com/negarslh97/Machine-Learning/blob/main/6.7.Assignment/Surgical/output/output.png)
+
 <br/>
 
 ---
@@ -70,7 +72,9 @@ The goal of this project is to predict a city’s temperature based on historica
 
 <br/>
 <br/>
+
 ![Evaluate Plot](https://github.com/negarslh97/Machine-Learning/blob/main/6.7.Assignment/Weather_Forecast/output/acc-loss.png)
+
 <br/>
 
 ---
