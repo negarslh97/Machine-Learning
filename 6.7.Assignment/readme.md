@@ -54,17 +54,19 @@ The goal of this project is to predict a city’s temperature based on historica
 2. **Plotting Average Temperature**: A plot was created showing the average temperature for each day of the year.
    
    <br/>
+   
    ![Average Temperature per Day Plot](https://github.com/negarslh97/Machine-Learning/blob/main/6.7.Assignment/Weather_Forecast/output/data-plot.png)
+   
    <br/>
    <br/>
 
-3. **Linear Perceptron Modeling**: A linear Perceptron model was trained on the processed data.
+4. **Linear Perceptron Modeling**: A linear Perceptron model was trained on the processed data.
 
-4. **Functions**:
+5. **Functions**:
    - **Evaluate Function**: A function to evaluate the model’s performance.
    - **Predict Function**: A function to predict temperature for a given day of the year.
 
-5. **Weight and Bias Saving**: The trained weights and bias values were saved as `.npy` files for further use.
+6. **Weight and Bias Saving**: The trained weights and bias values were saved as `.npy` files for further use.
 
 ### Important Plots During Training
 - **Loss**: Visualizes the model’s training loss across epochs.
