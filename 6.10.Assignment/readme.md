@@ -1,4 +1,4 @@
-# Combined README - Machine Learning Projects
+# Machine Learning Projects
 
 ## Table of Contents
 1. [MLP and Perceptron Project](#mlp-and-perceptron-project)
@@ -78,18 +78,6 @@ In this project:
 | Multi Layer Perceptron        | 13.3313 |
 | Single (One) Layer Perceptron | 90.1282 |
 
-
-<br/>
-<br/>
-![Temperature of Days - MLP](https://github.com/negarslh97/Machine-Learning/blob/main/6.10.Assignment/Weather/output/mlp.png)
-
-<br/>
-<br/>
-<p align="center">
-  <img src="https://github.com/negarslh97/Machine-Learning/blob/main/6.10.Assignment/Weather/output/loss_mlp.png" alt="Image 1" width="45%">
-  <img src="https://github.com/negarslh97/Machine-Learning/blob/main/6.10.Assignment/Weather/output/loss_perceptron.png" alt="Image 2" width="45%">
-</p>
-
 ---
 
 ## House Price Prediction Pipeline Project
@@ -147,7 +135,7 @@ This repository contains a pipeline for training a regression model and making p
 - Evaluate the model performance on the validation set (MSE, RMSE, etc.).
 
 <br/>
-<br/>
+
 ![Loss](https://github.com/negarslh97/Machine-Learning/blob/main/6.10.Assignment/HousePrices/output/output.png)
 
 #### Correlation Analysis
